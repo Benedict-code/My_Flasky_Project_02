@@ -1,0 +1,7 @@
+{
+    "robocorp.autoSetPythonExtensionDisableActivateTerminal": false,
+    "robot.language-server.python": "C:\\Users\\bened\\AppData\\Local\\Programs\\Python\\Python312\\Python.exe",
+    "robot.language-server.tcp-port": 0,
+    "robot.python.executable": "C:\\Users\\bened\\AppData\\Local\\Programs\\Python\\Python312\\Python.exe",
+    "robot.run.peekError.showErrorsInCallers": true
+}
