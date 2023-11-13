@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Signant Health Demo web App #
 
 ## Installation Instructions ##
@@ -102,3 +103,6 @@ Subject information can be updated by sending PUT requests with a simple payload
  'datapoint2': 'value',
   ...}
 ```
+=======
+# My_Flasky_Project_02
+>>>>>>> 12578de191f7fa70c886e712651efd57d1ed8135
